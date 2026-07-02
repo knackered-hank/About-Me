@@ -20,6 +20,6 @@
 * 專案定位: 為特定人事物量身打造的像素風小遊戲，並在過程添加屬於我們共同的默契和記憶。
 
 4. Wordplay — 中文填字遊戲
-連結: https://knackered-hank.github.io/wordplay/
-核心技術: 原生 HTML5, CSS3, JavaScript (DOM 操作)。
-專案定位: 純前端視覺實驗專案，探索字體排版、簡潔介面與益智遊戲的結合。
+* 連結: https://knackered-hank.github.io/wordplay/
+* 核心技術: 原生 HTML5, CSS3, JavaScript 。
+* 專案定位: 純前端視覺實驗專案，探索字體排版、簡潔介面與益智遊戲的結合。
