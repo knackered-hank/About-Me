@@ -16,7 +16,7 @@
 
 3. Happy Graduation To... — 給學弟妹的畢業祝福
 * 連結: https://happy-graduation-to.pages.dev/?user=han
-* 核心技術: 前端動態渲染、URL 狀態管理、Sprite Sheet控制、鍵盤事件監聽。
+* 核心技術: 前端動態渲染、Sprite Sheet控制、鍵盤事件監聽。
 * 專案定位: 為特定人事物量身打造的像素風小遊戲，並在過程添加共同的笑哏和記憶。
 
 4. Wordplay — 中文填字遊戲
